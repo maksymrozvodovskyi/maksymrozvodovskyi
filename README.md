@@ -39,8 +39,7 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight" width="400"/>
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" width="400"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maksymrozvodovskyi&layout=compact&theme=tokyonight)  
 
 ---
 
