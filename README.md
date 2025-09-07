@@ -41,15 +41,12 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maksymrozvodovskyi&layout=compact&theme=tokyonight)  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maksymrozvodovskyi&theme=tokyonight)  
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=maksymrozvodovskyi&theme=tokyonight)
-
 ---
 
 ## 📫 Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maksymrozvodovskyi/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rozvodovskyim@gmail.com)
 
 ---
 
