@@ -6,10 +6,10 @@
 ---
 
 ## 🌌 About Me
-- 🔹 Experienced with **React, Node.js, Express, MongoDB, TypeScript**  
-- 🔹 Focused on **responsive UI and API design**  
-- 🔹 Always learning new technologies and improving skills  
-- 🔹 Open for collaboration and interesting projects  
+🔹 Experienced with **React, Node.js, Express, MongoDB, TypeScript**  
+🔹 Focused on **responsive UI and API design**  
+🔹 Always learning new technologies and improving skills  
+🔹 Open for collaboration and interesting projects  
 
 ---
 
