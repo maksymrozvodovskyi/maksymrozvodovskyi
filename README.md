@@ -14,6 +14,7 @@ I focus on writing clean code and creating projects that truly make an impact.
 ## 📊 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maksymrozvodovskyi&layout=compact&theme=tokyonight)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maksymrozvodovskyi&show_icons=true&theme=tokyonight)
 
 ---
