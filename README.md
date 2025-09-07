@@ -39,9 +39,10 @@
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maksymrozvodovskyi&layout=compact&theme=tokyonight)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maksymrozvodovskyi&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maksymrozvodovskyi&layout=compact&theme=tokyonight)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maksymrozvodovskyi&theme=tokyonight)  
+
 ![Trophies](https://github-profile-trophy.vercel.app/?username=maksymrozvodovskyi&theme=tokyonight)
 
 ---
