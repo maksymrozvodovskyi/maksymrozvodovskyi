@@ -1,15 +1,15 @@
 # 👋 Hello, I'm Maksym Rozvodovskyi
 
-🚀 Fullstack Developer | Passionate about building **fast, scalable, and user-friendly web applications**.  
-💻 I focus on writing **clean code** and creating projects that truly make an impact.
+🚀 Fullstack Developer | Passionate about **building fast, scalable, and user-friendly web applications**.  
+💻 Focused on writing **clean code** and creating projects that truly make an impact.
 
 ---
 
-## 🌟 About Me
-- 🔹 Experienced with **React, Node.js, Express, MongoDB, TypeScript**
-- 🔹 Focused on **responsive UI and API design**
-- 🔹 Always learning new technologies and improving skills
-- 🔹 Open for collaboration and interesting projects
+## 🌌 About Me
+- 🔹 Experienced with **React, Node.js, Express, MongoDB, TypeScript**  
+- 🔹 Focused on **responsive UI and API design**  
+- 🔹 Always learning new technologies and improving skills  
+- 🔹 Open for collaboration and interesting projects  
 
 ---
 
@@ -39,9 +39,9 @@
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maksymrozvodovskyi&layout=compact&theme=react)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maksymrozvodovskyi&show_icons=true&theme=react)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maksymrozvodovskyi&theme=react)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maksymrozvodovskyi&layout=compact&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maksymrozvodovskyi&show_icons=true&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maksymrozvodovskyi&theme=tokyonight)  
 ![Trophies](https://github-profile-trophy.vercel.app/?username=maksymrozvodovskyi&theme=tokyonight)
 
 ---
