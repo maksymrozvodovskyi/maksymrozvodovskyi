@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Maksym Rozvodovskyi
 
 🚀 Fullstack Developer | Passionate about building **fast, scalable, and user-friendly web applications**.  
-💻 I love writing **clean code** and creating projects that make an impact.
+💻 I focus on writing **clean code** and creating projects that truly make an impact.
 
 ---
 
@@ -23,14 +23,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> &nbsp;
-
----
-
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maksymrozvodovskyi&layout=compact&theme=react)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maksymrozvodovskyi&show_icons=true&theme=react)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 
 ---
 
@@ -41,6 +34,15 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maksymrozvodovskyi&layout=compact&theme=react)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maksymrozvodovskyi&show_icons=true&theme=react)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maksymrozvodovskyi&theme=react)  
+![Trophies](https://github-profile-trophy.vercel.app/?username=maksymrozvodovskyi&theme=tokyonight)
 
 ---
 
